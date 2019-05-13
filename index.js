@@ -1,8 +1,8 @@
 
-
+/*
 (function () {
     "use strict"
-    document.getElementById("search-block").addEventListener("click",()=>{
+   /* document.getElementById("search-block").addEventListener("click",()=>{
 
         var bar = document.getElementById("search-bar")
         console.log("block")
@@ -38,3 +38,4 @@
 
   }());
 
+*/
